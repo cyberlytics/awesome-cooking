@@ -1,0 +1,1 @@
+pwsh -ExecutionPolicy ByPass -noprofile -command "&{start-process pwsh -ArgumentList '-ExecutionPolicy ByPass -noprofile -file \"%~dpn0.ps1\"' -verb RunAs}"

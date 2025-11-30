@@ -20,7 +20,8 @@ Dies ist mein persönliche digitale Rezeptsammlung. Ich bin ein Vater von zwei T
 
 - [Frühstück](#fruhstuck)
 - [Kochrezepte](#kochrezepte)
-- [Backen für Kinder](#backen-fur-kinder)
+- [Backen](#backen)
+- [Backen (Familienrezepte)](#backen-familienrezepte)
 - [Footer](#footer)
   - [Contribute](#contribute)
   - [License](#license)
@@ -33,12 +34,17 @@ Dies ist mein persönliche digitale Rezeptsammlung. Ich bin ein Vater von zwei T
 
 ## Kochrezepte
 
-- tbd
+- [Backofen-Waffeln](https://www.rezeptwelt.de/backen-suess-rezepte/himmlische-waffeln-aus-dem-backofen/9z5ye3qg-19cdb-146803-cfcd2-zrutr2ax)
 
-## Backen für Kinder
+## Backen
 
 - [Schoko Gugelhupf](https://linalsbackhimmel.de/schoko-gugelhupf/)
 - [Erdnussbutter-Schoko-Kuchen](https://www.peta.de/rezepte/veganer-erdnussbutter-schoko-kuchen/)
+
+## Backen (Familienrezepte)
+
+- [Kruemmeltorte](familienrezepte/Kruemmeltorte.pdf)
+- [Eierlikörtorte](familienrezepte/Eierlikoertorte.pdf)
 
 
 <footer>
