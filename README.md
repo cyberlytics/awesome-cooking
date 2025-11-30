@@ -18,8 +18,14 @@ Dies ist mein persönliche digitale Rezeptsammlung. Ich bin ein Vater von zwei T
 
 <!-- toc -->
 
-<!-- tocstop -->
+- [Frühstück](#fruhstuck)
+- [Kochrezepte](#kochrezepte)
+- [Backen für Kinder](#backen-fur-kinder)
+- [Footer](#footer)
+  - [Contribute](#contribute)
+  - [License](#license)
 
+<!-- tocstop -->
 
 ## Frühstück
 
