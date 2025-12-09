@@ -30,7 +30,7 @@ Dies ist mein persönliche digitale Rezeptsammlung. Ich bin ein Vater von zwei T
 
 ## Frühstück
 
-- [Zucchini Schoko-Porrdige](https://www.bevegt.de/zucchini-schoko-porridge/)
+- [Zucchini Schoko-Porridge](https://www.bevegt.de/zucchini-schoko-porridge/)
 
 ## Kochrezepte
 
@@ -43,7 +43,7 @@ Dies ist mein persönliche digitale Rezeptsammlung. Ich bin ein Vater von zwei T
 
 ## Backen (Familienrezepte)
 
-- [Kruemmeltorte](familienrezepte/Kruemmeltorte.pdf)
+- [Krümmeltorte](familienrezepte/Kruemmeltorte.pdf)
 - [Eierlikörtorte](familienrezepte/Eierlikoertorte.pdf)
 
 
