@@ -23,8 +23,6 @@ Dies ist mein persönliche digitale Rezeptsammlung. Ich bin ein Vater von zwei T
 - [Backen](#backen)
 - [Backen (Familienrezepte)](#backen-familienrezepte)
 - [Footer](#footer)
-  - [Contribute](#contribute)
-  - [License](#license)
 
 <!-- tocstop -->
 
